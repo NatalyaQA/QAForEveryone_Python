@@ -13,15 +13,15 @@
 *            *
 *********
 """
-#1.1.2
+# 1.1.2
 print("Hello, world!")
 
-#1.1.3
+# 1.1.3
 user_name = input()
-print f("Hello, {user_name}!")
+print(f"Hello, {user_name}!")
 
-#1.2
+# 1.2
 print("*" * 9)
-print("*", " " * 5, "*") 
-print("*", " " * 5, "*") 
+print("*", " " * 5, "*")
+print("*", " " * 5, "*")
 print("*" * 9)
