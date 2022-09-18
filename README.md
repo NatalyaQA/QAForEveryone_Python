@@ -1,1 +1,5 @@
-# QAForEveryone_Python
+- 👋 Hi, I’m Natalya Voronova
+- 👀 I’m interested in Quality assurance.
+- 🌱 I’m currently learning AQA_Python.
+- 💞️ I’m looking to collaborate on QA/ AQA
+- 📫 How to reach me qajob00@mail.ru
